@@ -1,2 +1,19 @@
 There were no datatypes specified in the readme for Compensation
 Because of this I set salary and effectiveDate to Strings but they could easily be switched to float and Date respectively
+
+
+Changes (sorry I forgot to set up with git until the end)
+slight tweak to config/MongoConfig.java to read in Compensation repository
+Added:
+controller/CompensationController.java
+controller/ReportingStructureController.java
+dao/CompensationRepository.java
+data/Compensation.java
+data/ReportingStructure.java
+service/CompensationService.java
+service/ReportingStructureService.java
+service/impl/CompensationServiceImpl.java
+service/impl/ReportingStructureServiceImpl.java
+
+tests/service/impl/CompensationServiceImplTest.java
+tests/service/impl/ReportingStructureServiceImplTest.java
