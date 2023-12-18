@@ -1,0 +1,2 @@
+There were no datatypes specified in the readme for Compensation
+Because of this I set salary and effectiveDate to Strings but they could easily be switched to float and Date respectively
